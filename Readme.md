@@ -15,7 +15,6 @@ We allow student to
 2) They can **enroll** to maximum **4** subject
     When they enroll, the random subject will assign to them with the random mark
 3) They can remove the subject, 
-4) Change their password 
 5) View their enrolled subjects 
 
 ## Admin System
